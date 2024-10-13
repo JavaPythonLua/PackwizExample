@@ -1,0 +1,13 @@
+name = "ExamplePack"
+author = "TheInventingRoom"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4213dd34972773abfcf0c6a1c0c50e6eaa9642c33921c2a2bf50bb2a109c95c2"
+
+[versions]
+forge = "47.3.7"
+minecraft = "1.20.1"
